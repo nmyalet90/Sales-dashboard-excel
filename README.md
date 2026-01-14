@@ -10,7 +10,7 @@ The dashboard consolidates historical sales data into a single, easy-to-use inte
 
 ## 🖼️ Dashboard Overview
 
-![Sales Dashboard](images/dashboard.png)
+![Sales Dashboard](dashboard.png)
 
 *Interactive sales dashboard showing KPIs, regional performance, top customers and products, and historical sales trends.*
 
