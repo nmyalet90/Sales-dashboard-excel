@@ -1,10 +1,13 @@
-# 📊 Sales Dashboard – README
+# 📊 Superstore Sales Dashboard – README
 
 ## 🧭 Introduction
 
-This dashboard provides an interactive overview of sales performance across multiple dimensions, including time, geography, customers, and products. It is designed to support business analysis and decision-making by highlighting key performance indicators (KPIs), sales trends, and top contributors to revenue.
+This dashboard presents an interactive analysis of sales data from a U.S.-based superstore operating across all states in the United States between 2015 and 2018. The superstore specializes in three main product categories: Office Supplies, Technology, and Furniture.
 
-The dashboard consolidates historical sales data into a single, easy-to-use interface that allows users to quickly identify patterns, compare performance across regions and states, and understand which customers and products drive the highest sales.
+The dashboard provides a comprehensive view of sales performance across time, geography, customers, and products. It is designed to support business analysis and decision-making by highlighting key performance indicators (KPIs), sales trends, regional and state-level performance, and the contribution of different customer segments and product categories.
+
+By consolidating historical sales data into a single, easy-to-use interface, users can quickly identify patterns, compare performance across regions, and understand which customers and products drive revenue and profitability.
+
 
 ---
 
